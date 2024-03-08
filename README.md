@@ -13,7 +13,7 @@ node --watch data-types.js
 This is how to change directory to where the file is:
 
 ```bash
-`cd basic-data-types`
+cd basic-data-types
 ```
 
 Do keep your terminal/console open so you see the changes made to your code live!!!
